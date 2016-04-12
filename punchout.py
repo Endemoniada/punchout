@@ -2,7 +2,7 @@
 # coding=utf-8
 
 def main():
-    print "hej"
+    print "tjo"
 
 if __name__ == '__main__':
     main()
